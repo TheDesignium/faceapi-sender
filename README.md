@@ -23,5 +23,6 @@ I confirmed the operation in the following environment.(2020/2/21)
 3. Run faceapi-sender by VSCode
 4. Push 'p'key, and then model prediction starts.
 <br>
+
 - You need to rewrite the url and pot number on source code to suit your environment. (Default is url:localhost wsport:8080 oscport:6000)
 - Currently, only the mouth coordinates can be sent when using OSC.
