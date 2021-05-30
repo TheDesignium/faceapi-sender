@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "node-osc": "^4.1.4",
-    "ws": "^7.2.1"
+    "ws": "^7.4.6"
   }
 }
